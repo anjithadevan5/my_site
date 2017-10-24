@@ -1,0 +1,120 @@
+
+* 	{margin: 0;
+	padding: 0;}
+ 
+
+
+body {
+	background: #ffffff;
+    
+
+}
+li a {
+    color: blue;
+
+}
+#mainmenu_box {
+	position:absolute; 
+	left:0px; 
+	top:80px;
+	width:200px; 
+	height:170px;
+	background-color: #080904;
+}
+#imagebox {
+	position:absolute;
+	left:200px; 
+	top:80px;
+	width:500px; 
+	height:170px;
+	background-image: url(images/branch.jpg);
+}
+#mainmenu {
+	position:absolute; 
+	left:14px; 
+	top:80px;
+	width:175px; 
+	height:175px;
+	font-family: verdana,"century", Times, serif;
+	font-size: 10pt;
+	color: #FFFFFF;
+	padding: 7px 12px 12px 12px;
+}
+#mainmenu a:link {
+	color: #0000ff;
+	text-decoration: none;
+}
+
+#mainmenu a:hover {
+	color: #ff0000;
+	background-color: #fff;
+	text-decoration: none;
+}
+
+#mainmenu a:visited {
+	color: #ff0000;
+    text-decoration: none;
+}
+		   
+#navlist li {	
+	list-style-type: none;
+	color: #ffffff;
+	border-left:  1px solid #505050;
+	padding: 7px 7px 7px 7px;
+
+}
+
+#aboutdetails{
+	position:absolute;
+	font-family: verdana,"century", Times, serif;
+	font-size: 20pt;
+	left: 26px;
+	top: 250px;
+	width: 430px; 
+	height: 350px;
+}
+
+#contactdetails{
+	position:absolute;
+	font-family: verdana,"century", Times, serif;
+	font-size: 22pt;
+	left: 26px;
+	top: 250px;
+	width: 430px; 
+	height: 350px;
+
+}
+#details {
+	position:absolute;
+	font-family: verdana,"century", Times, serif;
+	font-size: 25pt;
+	left: 26px;
+	top: 350px;
+	width: 430px; 
+	height: 350px;
+	
+}
+
+h2 {
+	font-family: verdana,"century", Times, serif;
+	font-size: 40pt;
+	font-weight: 400;
+	color: #0000ff;
+}
+h4{
+	position:absolute;
+	font-family: verdana,"century", Times, serif;
+	font-size: 30pt;
+	left: 26px;
+	top: 270px;
+	width: 430px; 
+	height: 350px;
+	color: #ffa500;
+	
+}
+
+
+
+
+
+

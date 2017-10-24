@@ -1,0 +1,28 @@
+
+#username {
+	position:absolute;
+	top:250px; 
+	left:500px;
+
+
+	background-color: #ee82ee;
+}
+#password {
+	position:absolute;
+	top:300px; 
+	left:500px;
+
+	background-color: #ee82ee;
+}
+#submit {
+	position:absolute;
+	top:350px; 
+	left:600px;
+	background-color:#787878 ;
+}
+#login {
+	position:absolute;
+	left: 580;
+	font-size: 20pt;
+	top:200px; 
+}
